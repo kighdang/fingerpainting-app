@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fingerpainting</string>
+    <string name="undo">Undo</string>
+    <string name="red">Red</string>
+    <string name="black">Black</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+</resources>
